@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - camel_case_types
+    - avoid_print
+    - constant_identifier_names
+    - prefer_final_locals
+    - prefer_final_in_for_each
+    - sort_pub_dependencies
+    - require_trailing_commas
+    - omit_local_variable_types
+    - prefer_const_constructors
+    - prefer_const_literals_to_create_immutables
+    - prefer_const_declarations

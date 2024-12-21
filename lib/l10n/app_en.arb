@@ -1,0 +1,78 @@
+{
+    "applicationName": "HabiLite",
+    "today": "Today",
+    "habits": "Habits",
+    "todos": "Todos",
+    "settings": "Settings",
+    "howIsYourMood": "How is your mood?",
+    "statistics": "Statistics",
+    "moodStatistics": "Mood statistics",
+    "entryDeleted": "Entry has been deleted!",
+    "undo": "Undo",
+    "hasBeenSaved": "{item} has been saved!",
+    "@hasBeenSaved": {
+         "type": "text",
+        "placeholders": {
+            "item": {}
+        }
+    },
+    "notEnoughDataYet": "Not enough data yet to show anything.",
+    "year": "Year",
+    "month": "Month",
+    "week": "Week",
+    "day": "Day",
+    "addNote": "Add optional note",
+    "save": "Save",
+    "cancel": "Cancel",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark",
+    "setColorTheme": "Set color theme",
+    "resetData": "Reset app data",
+    "exportData": "Export app data",
+    "importData": "Import app data",
+    "appDataSettings": "App data settings",
+    "errorWhileImportingData": "Error while importing data...",
+    "resetDataWarning": "This will delete all your stored habits, your progress and all app data. Are you completely sure you want to do this? This can not be undone. It is recommended to export your data first.",
+    "allDataHasBeenReset": "All data has been reset!",
+    "importedCountDataSets": "Imported {count} data sets.",
+    "@importedCountDataSets": {
+         "type": "text",
+        "placeholders": {
+            "count": {}
+        }
+    },
+    "todo": "Todo",
+    "createTodo": "Create todo",
+    "title": "Title",
+    "description": "Description",
+    "pleaseFillOut": "Please fill out",
+    "startTime": "Start",
+    "dueTime": "Due",
+    "oneTimeTodos": "One-time todos",
+    "addOneTimeTodo": "Add one-time todo",
+    "habit": "Habit",
+    "newHabit": "New habit",
+    "edit": "Edit",
+    "delete": "Delete",
+    "daily": "Daily",
+    "monthDays": "Monthdays: {days}",
+    "@monthDays": {
+        "type": "text",
+        "placeholders": {
+            "days": {}
+        }
+    },
+    "continuesly": "Continuesly",
+    "changeEntry": "Change entry",
+    "deleteHabitConsent": "Are you sure you want to permanently delete this habit?",
+    "delete": "Delete",
+    "newHabit": "New habit",
+    "info": "Info",
+    "sourceCode": "Source code",
+    "licenses": "Licenses",
+    "habitArchived": "Habit has been archived.",
+    "habitRestored": "Habit has been restored from the archive.",
+    "habitDeleted": "Habit has been deleted.",
+    "archivedHabits": "Archived habits"
+}

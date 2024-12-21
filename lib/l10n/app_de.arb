@@ -1,0 +1,77 @@
+{
+    "applicationName": "HabiLite",
+    "today": "Heute",
+    "habits": "Gewohnheiten",
+    "todos": "Todos",
+    "settings": "Einstellungen",
+    "howIsYourMood": "How is your mood?",
+    "statistics": "Statistics",
+    "moodStatistics": "Mood statistics",
+    "entryDeleted": "Eintrag wurde gelöscht!",
+    "undo": "Rückgängig",
+    "hasBeenSaved": "{item} wurde gespeichert!",
+    "@hasBeenSaved": {
+         "type": "text",
+        "placeholders": {
+            "item": {}
+        }
+    },
+    "notEnoughDataYet": "Nicht genug Daten, um etwas zu zeigen.",
+    "year": "Jahr",
+    "month": "Monat",
+    "week": "Woche",
+    "day": "Tag",
+    "addNote": "Optional Notiz hinzufügen",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "system": "System",
+    "light": "Hell",
+    "dark": "Dunkel",
+    "setColorTheme": "Farbschema setzen",
+    "resetData": "App-Daten zurücksetzen",
+    "exportData": "App-Daten exportieren",
+    "importData": "App-Daten importieren",
+    "appDataSettings": "Einstellungen zu App-Daten",
+    "errorWhileImportingData": "Fehler beim Daten-Import",
+    "resetDataWarning": "Dadurch werden alle deine gespeicherten Gewohnheiten, dein Fortschritt und alle App-Daten gelöscht. Bist du ganz sicher, dass du das tun möchtest? Dies kann nicht rückgängig gemacht werden. Es wird empfohlen, deine Daten zuerst zu exportieren.",
+    "allDataHasBeenReset": "Alle Daten wurden gelöscht!",
+    "importedCountDataSets": "{count} Datensätze wurden importiert.",
+    "@importedCountDataSets": {
+         "type": "text",
+        "placeholders": {
+            "count": {}
+        }
+    },
+    "todo": "Todo",
+    "createTodo": "Create todo",
+    "title": "Titel",
+    "description": "Beschreibung",
+    "pleaseFillOut": "Bitte ausfüllen",
+    "startTime": "Start",
+    "dueTime": "Bis",
+    "oneTimeTodos": "One-time todos",
+    "addOneTimeTodo": "Add one-time todo",
+    "habit": "Gewohnheit",
+    "newHabit": "Neue Gewohnheit",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "daily": "Täglich",
+    "monthDays": "Monatstage: {days}",
+    "@monthDays": {
+        "type": "text",
+        "placeholders": {
+            "days": {}
+        }
+    },
+    "continuesly": "Fortwährend",
+    "changeEntry": "Eintrag ändern",
+    "deleteHabitConsent": "Bist du sicher, dass du diese Gewohnheit permanent löschen möchtest?",
+    "delete": "Löschen",
+    "info": "Info",
+    "sourceCode": "Quellcode",
+    "licenses": "Lizenzen",
+    "habitArchived": "Gewohnheit wurde archiviert.",
+    "habitRestored": "Gewohnheit wurde aus dem Archiv widerhergestellt.",
+    "habitDeleted": "Gewohnheit wurde gelöscht.",
+    "archivedHabits": "Archivierte Gewohnheiten"
+}
